@@ -1,4 +1,4 @@
-#AAIC 2022 , Predicting the stock market , Portfolio management
+#AAIC 2022  Amirkabir artificial intelligence competition for Predicting the stock market , Portfolio management
 
 The challenge of predicting the stock market is one of the challenges raised 
 in the 6th Amirkabir artificial intelligence competition. In this period, two separate competitions will be held:
