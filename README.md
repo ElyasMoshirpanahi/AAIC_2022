@@ -2,7 +2,8 @@
 
 
 The challenge of predicting the stock market is one of the challenges raised 
-in the 6th Amirkabir artificial intelligence competition. In this period, two separate competitions will be held:
+in the 6th [Amirkabir artificial intelligence competition](https://aaic.aut.ac.ir/competition/4). In this period, two separate competitions will be held:
+![alt text](https://aaic.aut.ac.ir/media/documents/competitions/asserts/poster_7bNFlje.jpg)
 
 1) Prediction of the total index of the stock market
 
