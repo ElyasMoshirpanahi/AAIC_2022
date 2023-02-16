@@ -19,6 +19,6 @@ from top universities in Iran.
 ## Contact
 Feel free to contact us via email or connect with us on linkedin.
 
-- Abbas Omidi --- [Linkedin](https://www.linkedin.com/in/abbasomidi77/), [Github](https://github.com/abbasomidi77), [Email](mailto:abbasomidi77@gmail.com)
 - Elyas Moshirpanahi --- [Linkedin](https://www.linkedin.com/in/ElyasMoshirpanahi1997), [Github](https://github.com/elyas1376), [Email](mailto:elyasmoshirpanahe1376@gmail.com)
+- Abbas Omidi --- [Linkedin](https://www.linkedin.com/in/abbasomidi77/), [Github](https://github.com/abbasomidi77), [Email](mailto:abbasomidi77@gmail.com)
 - Setareh Moazzezi ---  [Linkedin](https://www.linkedin.com/in/setareh-moazzezi-a1679182)
